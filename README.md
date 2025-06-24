@@ -41,19 +41,26 @@ Esta aplicación representa una implementación completa, ordenada y funcional d
 Ejecucion del Programa:
 
 Codigo Inicial sin modificar:
+
 ![WhatsApp Image 2025-06-24 at 17 37 45](https://github.com/user-attachments/assets/e0e62b7a-fa59-40f1-9a56-648881e4c3ef)
 
 Contador de Visitas:
+
 ![WhatsApp Image 2025-06-24 at 17 37 45 (1)](https://github.com/user-attachments/assets/6fba38f6-8043-441b-96a1-db00677ef58a)
 ![WhatsApp Image 2025-06-24 at 17 37 46](https://github.com/user-attachments/assets/9aade9f0-c36f-4301-a8d1-82d611d26148)
 
 Temas:
+
 Tema Claro:
+
 ![WhatsApp Image 2025-06-24 at 17 37 46 (1)](https://github.com/user-attachments/assets/c2f30f93-9fe7-4f43-bba1-0564ff9885d2)
+
 Tema Oscuro:
+
 ![WhatsApp Image 2025-06-24 at 17 37 46 (2)](https://github.com/user-attachments/assets/06bd36fb-1e5e-4ae1-833d-d7e50020a105)
 
 Perfil:
+
 ![WhatsApp Image 2025-06-24 at 17 37 47](https://github.com/user-attachments/assets/bf84b75b-af10-4618-b38a-f58fc4211c4b)
 ![WhatsApp Image 2025-06-24 at 17 37 47 (1)](https://github.com/user-attachments/assets/2250ccf7-597f-449d-8be5-97c221b7b2dc)
 ![WhatsApp Image 2025-06-24 at 17 37 47 (2)](https://github.com/user-attachments/assets/a9c87c86-a5ab-4743-a9d2-e3d88751d71e)
